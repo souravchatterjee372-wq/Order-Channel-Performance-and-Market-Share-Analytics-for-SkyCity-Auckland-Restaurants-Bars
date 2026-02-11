@@ -4,7 +4,7 @@
 
 ---
 
-##📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes order channel performance and market share trends using data analytics techniques and visualizations. The goal is to identify patterns, evaluate channel efficiency, and generate actionable insights that support data-driven decision-making.
 
@@ -20,7 +20,7 @@ This project analyzes order channel performance and market share trends using da
 
 ---
 
-##📂 Dataset
+## 📂 Dataset
 
 The dataset contains transactional records including:
 - Order date
