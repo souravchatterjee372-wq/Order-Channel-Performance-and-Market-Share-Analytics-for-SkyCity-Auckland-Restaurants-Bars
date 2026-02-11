@@ -86,4 +86,4 @@ The dataset contains transactional records including:
 ---
 
 ## 📜 License
---- This project is for educational and portfolio purposes.
+- This project is for educational and portfolio purposes.
