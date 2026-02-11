@@ -69,7 +69,7 @@ The dataset contains transactional records including:
 
 ## ▶ How to Run the Project
 - Clone the repository
-- git clone https://github.com/yourusername/repository-name.git
+- git clone https://github.com/souravchatterjee372-wq/Order-Channel-Performance-and-Market-Share-Analytics-for-SkyCity-Auckland-Restaurants-Bars.git
 - Open project file in your tool
 - Run analysis script / open dashboard
 
